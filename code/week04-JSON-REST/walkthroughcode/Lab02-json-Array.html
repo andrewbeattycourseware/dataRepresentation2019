@@ -1,0 +1,21 @@
+<html>
+    <head>
+        <title>lab02</title>
+    </head>
+    <body>
+
+        <script>
+            var jsonString ='{"employees":[{"firstName":"john","lastName":"DOE"},{"firstName":"Anna","lastName":"Smith"},{"firstName":"Peter","lastName":"Jones"}]}'
+            var obj = JSON.parse(jsonString);
+            var employees = obj.employees;
+            //for (employee of employees){
+            //    console.log(employee.firstName);
+            //}
+            employees.forEach(employee => {
+                console.log(employee.lastName);
+                
+            });
+        </script>
+    </body>
+
+</html>

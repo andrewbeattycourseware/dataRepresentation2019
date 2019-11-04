@@ -1,0 +1,85 @@
+<html>
+
+<head>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <title>getting reports</title>
+</head>
+
+<body>
+    <button onclick="getReportList()">go</button>
+    <table id="output"></table>
+    <script>
+        function getReportList() {
+            $.ajax({
+                "url": "https://reports.sem-o.com/api/v1/documents/static-reports?ReportName=Balancing%20and%20Imbalance%20Market%20Cost%20View",
+                "method": "GET",
+                "data": "",
+                "dataType": "JSON",
+                "success": function (result) {
+                    //console.log(result)
+                    console.log(result.pagination.totalPages);
+                    getListOfReports(result.pagination.totalPages);
+                },
+                "error": function (xhr, status, error) {
+                    console.log("status:" + status + " message:" + error);
+                }
+
+            });
+        }
+
+        function getListOfReports(pageNumber) {
+            $.ajax({
+                "url": "https://reports.sem-o.com/api/v1/documents/static-reports?ReportName=Balancing%20and%20Imbalance%20Market%20Cost%20View&page=" + pageNumber,
+                "method": "GET",
+                "data": "",
+                "dataType": "JSON",
+                "success": function (result) {
+                    //console.log(result)
+                    var items = result.items;
+                    for (item of items) {
+                        getRow(item.ResourceName);
+                    }
+                },
+                "error": function (xhr, status, error) {
+                    console.log("status:" + status + " message:" + error);
+                }
+            });
+        }
+        function getRow(resourceName) {
+            $.ajax({
+                "url": "https://reports.sem-o.com/api/v1/documents/" + resourceName,
+                "method": "GET",
+                "data": "",
+                "dataType": "JSON",
+                "success": function (result) {
+                    console.log(JSON.stringify(result.rows[0]));
+                    insertRow(result.rows[0]);
+                },
+                "error": function (xhr, status, error) {
+                    console.log("status:" + status + " message:" + error);
+                }
+            });
+        }
+        function insertRow(obj){
+            var tableElement = document.getElementById("output");
+            var rowElement = tableElement.insertRow(-1);
+            var cellElement = rowElement.insertCell(-1);
+            cellElement.innerHTML = obj.StartTime;
+            
+            cellElement = rowElement.insertCell(-1);
+            cellElement.innerHTML = obj.EndTime;
+            
+            cellElement = rowElement.insertCell(-1);
+            cellElement.innerHTML = obj.ImbalanceVolume;
+            
+            cellElement = rowElement.insertCell(-1);
+            cellElement.innerHTML = obj.ImbalancePrice;
+            
+            cellElement = rowElement.insertCell(-1);
+            cellElement.innerHTML = obj.ImbalanceCost;
+        }
+
+    </script>
+</body>
+
+</html>

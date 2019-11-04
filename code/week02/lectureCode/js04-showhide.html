@@ -1,0 +1,28 @@
+<html>
+    <head>
+        <title>js01-intro</title>
+        <!-- javascript can go in the head-->
+    </head>
+    <body>
+        <div id="div1" style="background-color: blue">
+            this is div1
+            <button onclick="show2()">show 2</button><br/>
+            more on 1
+        </div>
+        <div id="div2" style="background-color:red; display: none">
+            this is div2    
+            <button onclick="show1()">show 1</button>
+            </div>
+            
+        <script>
+            function show1(){
+                document.getElementById("div1").style.display = 'block'
+                document.getElementById("div2").style.display = 'none'
+            }
+            function show2(){
+                document.getElementById("div1").style.display = 'none'
+                document.getElementById("div2").style.display = 'block'
+            }
+        </script>
+    </body>
+</html>

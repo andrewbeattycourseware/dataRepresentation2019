@@ -1,0 +1,28 @@
+<html>
+    <head>
+        <title>2.5</title> 
+    </head>
+    <body>
+            <div id="div1" style="background-color: royalblue">
+                <br/>
+                some text <br/>
+                <button onclick="showDiv2()">show Div2</button>
+            </div>
+            <div id="div2" style="background-color: red; display: none">
+                <br/>
+                div2 <br/>
+                <button onclick="showDiv1()">show Div1</button>
+            </div>
+            <script>
+            function showDiv2(){
+                document.getElementById("div1").style.display = "none";
+                document.getElementById("div2").style.display = "block";
+            }
+            function showDiv1(){
+                document.getElementById("div1").style.display = "block";
+                document.getElementById("div2").style.display = "none";
+            }
+            </script>
+                            
+    </body>
+</html>

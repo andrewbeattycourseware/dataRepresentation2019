@@ -1,0 +1,29 @@
+<html>
+    <head><title>test get</title></head>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <body>
+        hi there
+        <button onclick="getall()">go</button>
+
+        <script>
+            function getall(){
+                $.ajax({
+                    url: "cars",
+                    method: "GET",
+                    data:"",
+                    dataType:"JSON",
+                    success: function(result){
+                        //console.log(result);
+                        for (car of result.cars){
+                            console.log(car);
+                        }
+                    },
+                    error: function(xhr,status, error){
+                        console.log("error "+status+" msg:"+error);
+                    }
+                })
+            }
+        </script>
+    </body>
+    </html>
+

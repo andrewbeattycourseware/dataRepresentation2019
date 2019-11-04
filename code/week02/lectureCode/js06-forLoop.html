@@ -1,0 +1,35 @@
+<html>
+    <head>
+        <title>for</title>
+        <!-- javascript can go in the head-->
+    </head>
+    <body>
+        <button onclick="showArray()">click me</button>
+        <div id="output1"></div>
+        <div id="outputBook"></div>
+        <!-- or at the end of the body-->
+        <script>
+            for (var i = 0; i< 10; i++){
+                console.log(i);
+            }
+
+            function showArray(){
+                var names = ['joe','Mary', 'Fred']
+                var book = {title:'harry Potter and something',authour:'JKR', isbn:"12345"}
+                var outputElement = document.getElementById('output1')
+                var output = '';
+                for (name of names){
+                    output = output + ' ' + name
+                }
+                outputElement.innerText = output
+                var bookoutput = ''
+                for (propName in book){
+                    bookoutput += propName+'='+book[propName]+'<br/>'
+
+                }
+                document.getElementById('outputBook').innerHTML=bookoutput
+
+            }
+        </script>
+    </body>
+</html>

@@ -1,0 +1,34 @@
+<html>
+    <head>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+        <title>
+            test update
+        </title>
+    </head>
+    <body>
+        <button onclick="updateCar()">update</button>
+        <div id="output"></div>
+    </body>
+    <script>
+        function updateCar(){
+            var car = {"reg":"181 G 1234","make":"Ford","model":"Modeo","price":"00"}
+            console.log(JSON.stringify(car));
+            $.ajax({
+                "url": "http://127.0.0.1:5000/cars/"+encodeURI(car.reg),
+                "method":"PUT",
+                "data":JSON.stringify(car),
+                "dataType": "JSON",
+                contentType: "application/json; charset=utf-8",
+                "success":function(result){
+                    console.log(result);
+                    document.getElementById("output").innerText = JSON.stringify(result);    
+                },
+                "error":function(xhr,status,error){
+                    console.log("error: "+status+" msg:"+error);
+                }
+            });
+
+        }
+       
+    </script>
+</html>

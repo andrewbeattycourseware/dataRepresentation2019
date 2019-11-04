@@ -1,0 +1,455 @@
+{
+    "pagination": {
+        "pageSize": 50,
+        "currentPage": 78,
+        "totalItems": 3887,
+        "totalPages": 78
+    },
+    "resourceBaseUri": "http:\/\/reports.sem-o.com\/documents",
+    "items": [
+        {
+            "_id": "5da6102c9620d95d7c207b39",
+            "Date": "2019-10-15",
+            "PublishTime": "2019-10-15T18:05:09",
+            "DPuG_ID": "BM-025",
+            "ReportName": "Imbalance Price Report (Imbalance Pricing Period)",
+            "Group": [
+                "Inputs, Commerical and Technical Offer Data"
+            ],
+            "Dynamic": true,
+            "ResourceName": "PUB_5MinImbalPrc_201910151745.xml"
+        },
+        {
+            "_id": "5da664989620d92dc30ba01a",
+            "Date": "2019-10-16",
+            "PublishTime": "2019-10-16T00:00:09",
+            "DPuG_ID": "BM-025",
+            "ReportName": "Imbalance Price Report (Imbalance Pricing Period)",
+            "Group": [
+                "Inputs, Commerical and Technical Offer Data"
+            ],
+            "Dynamic": true,
+            "ResourceName": "PUB_5MinImbalPrc_201910152340.xml"
+        },
+        {
+            "_id": "5da664989620d92dc30ba01b",
+            "Date": "2019-10-16",
+            "PublishTime": "2019-10-16T00:05:07",
+            "DPuG_ID": "BM-025",
+            "ReportName": "Imbalance Price Report (Imbalance Pricing Period)",
+            "Group": [
+                "Inputs, Commerical and Technical Offer Data"
+            ],
+            "Dynamic": true,
+            "ResourceName": "PUB_5MinImbalPrc_201910152345.xml"
+        },
+        {
+            "_id": "5da6680e9620d9362a5a3b22",
+            "Date": "2019-10-16",
+            "PublishTime": "2019-10-16T00:10:06",
+            "DPuG_ID": "BM-025",
+            "ReportName": "Imbalance Price Report (Imbalance Pricing Period)",
+            "Group": [
+                "Inputs, Commerical and Technical Offer Data"
+            ],
+            "Dynamic": true,
+            "ResourceName": "PUB_5MinImbalPrc_201910152350.xml"
+        },
+        {
+            "_id": "5da6680e9620d9362a5a3b23",
+            "Date": "2019-10-16",
+            "PublishTime": "2019-10-16T00:15:07",
+            "DPuG_ID": "BM-025",
+            "ReportName": "Imbalance Price Report (Imbalance Pricing Period)",
+            "Group": [
+                "Inputs, Commerical and Technical Offer Data"
+            ],
+            "Dynamic": true,
+            "ResourceName": "PUB_5MinImbalPrc_201910152355.xml"
+        },
+        {
+            "_id": "5da6761f9620d9592654ab76",
+            "Date": "2019-10-16",
+            "PublishTime": "2019-10-16T01:15:09",
+            "DPuG_ID": "BM-025",
+            "ReportName": "Imbalance Price Report (Imbalance Pricing Period)",
+            "Group": [
+                "Inputs, Commerical and Technical Offer Data"
+            ],
+            "Dynamic": true,
+            "ResourceName": "PUB_5MinImbalPrc_201910160055.xml"
+        },
+        {
+            "_id": "5da6842e9620d97c7800e41b",
+            "Date": "2019-10-16",
+            "PublishTime": "2019-10-16T02:28:06",
+            "DPuG_ID": "BM-025",
+            "ReportName": "Imbalance Price Report (Imbalance Pricing Period)",
+            "Group": [
+                "Inputs, Commerical and Technical Offer Data"
+            ],
+            "Dynamic": true,
+            "ResourceName": "PUB_5MinImbalPrc_201910160205.xml"
+        },
+        {
+            "_id": "5da699469620d934551722e9",
+            "Date": "2019-10-16",
+            "PublishTime": "2019-10-16T03:52:20",
+            "DPuG_ID": "BM-025",
+            "ReportName": "Imbalance Price Report (Imbalance Pricing Period)",
+            "Group": [
+                "Inputs, Commerical and Technical Offer Data"
+            ],
+            "Dynamic": true,
+            "ResourceName": "PUB_5MinImbalPrc_201910160330.xml"
+        },
+        {
+            "_id": "5da6e31c9620d97768326f6a",
+            "Date": "2019-10-16",
+            "PublishTime": "2019-10-16T09:07:46",
+            "DPuG_ID": "BM-025",
+            "ReportName": "Imbalance Price Report (Imbalance Pricing Period)",
+            "Group": [
+                "Inputs, Commerical and Technical Offer Data"
+            ],
+            "Dynamic": true,
+            "ResourceName": "PUB_5MinImbalPrc_201910160845.xml"
+        },
+        {
+            "_id": "5da6f8329620d930b66100b9",
+            "Date": "2019-10-16",
+            "PublishTime": "2019-10-16T10:32:21",
+            "DPuG_ID": "BM-025",
+            "ReportName": "Imbalance Price Report (Imbalance Pricing Period)",
+            "Group": [
+                "Inputs, Commerical and Technical Offer Data"
+            ],
+            "Dynamic": true,
+            "ResourceName": "PUB_5MinImbalPrc_201910161010.xml"
+        },
+        {
+            "_id": "5da6f8329620d930b66100bb",
+            "Date": "2019-10-16",
+            "PublishTime": "2019-10-16T10:37:30",
+            "DPuG_ID": "BM-025",
+            "ReportName": "Imbalance Price Report (Imbalance Pricing Period)",
+            "Group": [
+                "Inputs, Commerical and Technical Offer Data"
+            ],
+            "Dynamic": true,
+            "ResourceName": "PUB_5MinImbalPrc_201910161015.xml"
+        },
+        {
+            "_id": "5da6fbb79620d93aa37135ab",
+            "Date": "2019-10-16",
+            "PublishTime": "2019-10-16T10:52:11",
+            "DPuG_ID": "BM-025",
+            "ReportName": "Imbalance Price Report (Imbalance Pricing Period)",
+            "Group": [
+                "Inputs, Commerical and Technical Offer Data"
+            ],
+            "Dynamic": true,
+            "ResourceName": "PUB_5MinImbalPrc_201910161030.xml"
+        },
+        {
+            "_id": "5da6fbb79620d93aa37135ad",
+            "Date": "2019-10-16",
+            "PublishTime": "2019-10-16T10:57:15",
+            "DPuG_ID": "BM-025",
+            "ReportName": "Imbalance Price Report (Imbalance Pricing Period)",
+            "Group": [
+                "Inputs, Commerical and Technical Offer Data"
+            ],
+            "Dynamic": true,
+            "ResourceName": "PUB_5MinImbalPrc_201910161035.xml"
+        },
+        {
+            "_id": "5da71b5e9620d9115034c8be",
+            "Date": "2019-10-16",
+            "PublishTime": "2019-10-16T13:08:10",
+            "DPuG_ID": "BM-025",
+            "ReportName": "Imbalance Price Report (Imbalance Pricing Period)",
+            "Group": [
+                "Inputs, Commerical and Technical Offer Data"
+            ],
+            "Dynamic": true,
+            "ResourceName": "PUB_5MinImbalPrc_201910161245.xml"
+        },
+        {
+            "_id": "5da722669620d923b3232cde",
+            "Date": "2019-10-16",
+            "PublishTime": "2019-10-16T13:37:25",
+            "DPuG_ID": "BM-025",
+            "ReportName": "Imbalance Price Report (Imbalance Pricing Period)",
+            "Group": [
+                "Inputs, Commerical and Technical Offer Data"
+            ],
+            "Dynamic": true,
+            "ResourceName": "PUB_5MinImbalPrc_201910161315.xml"
+        },
+        {
+            "_id": "5da742069620d9793b218086",
+            "Date": "2019-10-16",
+            "PublishTime": "2019-10-16T15:52:20",
+            "DPuG_ID": "BM-025",
+            "ReportName": "Imbalance Price Report (Imbalance Pricing Period)",
+            "Group": [
+                "Inputs, Commerical and Technical Offer Data"
+            ],
+            "Dynamic": true,
+            "ResourceName": "PUB_5MinImbalPrc_201910161530.xml"
+        },
+        {
+            "_id": "5da757219620d932083c61fa",
+            "Date": "2019-10-16",
+            "PublishTime": "2019-10-16T17:22:10",
+            "DPuG_ID": "BM-025",
+            "ReportName": "Imbalance Price Report (Imbalance Pricing Period)",
+            "Group": [
+                "Inputs, Commerical and Technical Offer Data"
+            ],
+            "Dynamic": true,
+            "ResourceName": "PUB_5MinImbalPrc_201910161700.xml"
+        },
+        {
+            "_id": "5da768b79620d96012042d54",
+            "Date": "2019-10-16",
+            "PublishTime": "2019-10-16T18:48:40",
+            "DPuG_ID": "BM-025",
+            "ReportName": "Imbalance Price Report (Imbalance Pricing Period)",
+            "Group": [
+                "Inputs, Commerical and Technical Offer Data"
+            ],
+            "Dynamic": true,
+            "ResourceName": "PUB_5MinImbalPrc_201910161825.xml"
+        },
+        {
+            "_id": "5da77dcb9620d91a2b52a12a",
+            "Date": "2019-10-16",
+            "PublishTime": "2019-10-16T19:58:11",
+            "DPuG_ID": "BM-025",
+            "ReportName": "Imbalance Price Report (Imbalance Pricing Period)",
+            "Group": [
+                "Inputs, Commerical and Technical Offer Data"
+            ],
+            "Dynamic": true,
+            "ResourceName": "PUB_5MinImbalPrc_201910161935.xml"
+        },
+        {
+            "_id": "5da7c41c9620d955c27f2e2a",
+            "Date": "2019-10-17",
+            "PublishTime": "2019-10-17T00:58:41",
+            "DPuG_ID": "BM-025",
+            "ReportName": "Imbalance Price Report (Imbalance Pricing Period)",
+            "Group": [
+                "Inputs, Commerical and Technical Offer Data"
+            ],
+            "Dynamic": true,
+            "ResourceName": "PUB_5MinImbalPrc_201910170035.xml"
+        },
+        {
+            "_id": "5da7d5af9620d9048c2ee3d9",
+            "Date": "2019-10-17",
+            "PublishTime": "2019-10-17T02:18:46",
+            "DPuG_ID": "BM-025",
+            "ReportName": "Imbalance Price Report (Imbalance Pricing Period)",
+            "Group": [
+                "Inputs, Commerical and Technical Offer Data"
+            ],
+            "Dynamic": true,
+            "ResourceName": "PUB_5MinImbalPrc_201910170155.xml"
+        },
+        {
+            "_id": "5da803639620d97b606927ec",
+            "Date": "2019-10-17",
+            "PublishTime": "2019-10-17T05:33:10",
+            "DPuG_ID": "BM-025",
+            "ReportName": "Imbalance Price Report (Imbalance Pricing Period)",
+            "Group": [
+                "Inputs, Commerical and Technical Offer Data"
+            ],
+            "Dynamic": true,
+            "ResourceName": "PUB_5MinImbalPrc_201910170510.xml"
+        },
+        {
+            "_id": "5da811729620d922ee7258b0",
+            "Date": "2019-10-17",
+            "PublishTime": "2019-10-17T06:43:06",
+            "DPuG_ID": "BM-025",
+            "ReportName": "Imbalance Price Report (Imbalance Pricing Period)",
+            "Group": [
+                "Inputs, Commerical and Technical Offer Data"
+            ],
+            "Dynamic": true,
+            "ResourceName": "PUB_5MinImbalPrc_201910170620.xml"
+        },
+        {
+            "_id": "5da838a09620d90f701cfa09",
+            "Date": "2019-10-17",
+            "PublishTime": "2019-10-17T09:18:06",
+            "DPuG_ID": "BM-025",
+            "ReportName": "Imbalance Price Report (Imbalance Pricing Period)",
+            "Group": [
+                "Inputs, Commerical and Technical Offer Data"
+            ],
+            "Dynamic": true,
+            "ResourceName": "PUB_5MinImbalPrc_201910170855.xml"
+        },
+        {
+            "_id": "5da838a19620d90f701cfa0b",
+            "Date": "2019-10-17",
+            "PublishTime": "2019-10-17T09:23:11",
+            "DPuG_ID": "BM-025",
+            "ReportName": "Imbalance Price Report (Imbalance Pricing Period)",
+            "Group": [
+                "Inputs, Commerical and Technical Offer Data"
+            ],
+            "Dynamic": true,
+            "ResourceName": "PUB_5MinImbalPrc_201910170900.xml"
+        },
+        {
+            "_id": "5da838a19620d90f701cfa0d",
+            "Date": "2019-10-17",
+            "PublishTime": "2019-10-17T09:25:05",
+            "DPuG_ID": "BM-025",
+            "ReportName": "Imbalance Price Report (Imbalance Pricing Period)",
+            "Group": [
+                "Inputs, Commerical and Technical Offer Data"
+            ],
+            "Dynamic": true,
+            "ResourceName": "PUB_5MinImbalPrc_201910170905.xml"
+        },
+        {
+            "_id": "5da85ed29620d97bf13b87e1",
+            "Date": "2019-10-17",
+            "PublishTime": "2019-10-17T12:08:30",
+            "DPuG_ID": "BM-025",
+            "ReportName": "Imbalance Price Report (Imbalance Pricing Period)",
+            "Group": [
+                "Inputs, Commerical and Technical Offer Data"
+            ],
+            "Dynamic": true,
+            "ResourceName": "PUB_5MinImbalPrc_201910171145.xml"
+        },
+        {
+            "_id": "5da8624f9620d906a678886a",
+            "Date": "2019-10-17",
+            "PublishTime": "2019-10-17T12:28:16",
+            "DPuG_ID": "BM-025",
+            "ReportName": "Imbalance Price Report (Imbalance Pricing Period)",
+            "Group": [
+                "Inputs, Commerical and Technical Offer Data"
+            ],
+            "Dynamic": true,
+            "ResourceName": "PUB_5MinImbalPrc_201910171205.xml"
+        },
+        {
+            "_id": "5da873e39620d935a839369d",
+            "Date": "2019-10-17",
+            "PublishTime": "2019-10-17T13:37:21",
+            "DPuG_ID": "BM-025",
+            "ReportName": "Imbalance Price Report (Imbalance Pricing Period)",
+            "Group": [
+                "Inputs, Commerical and Technical Offer Data"
+            ],
+            "Dynamic": true,
+            "ResourceName": "PUB_5MinImbalPrc_201910171315.xml"
+        },
+        {
+            "_id": "5da881f39620d95bbc7e611a",
+            "Date": "2019-10-17",
+            "PublishTime": "2019-10-17T14:33:55",
+            "DPuG_ID": "BM-025",
+            "ReportName": "Imbalance Price Report (Imbalance Pricing Period)",
+            "Group": [
+                "Inputs, Commerical and Technical Offer Data"
+            ],
+            "Dynamic": true,
+            "ResourceName": "PUB_5MinImbalPrc_201910171410.xml"
+        },
+        {
+            "_id": "5da8c13d9620d90de9334c4f",
+            "Date": "2019-10-17",
+            "PublishTime": "2019-10-17T19:13:45",
+            "DPuG_ID": "BM-025",
+            "ReportName": "Imbalance Price Report (Imbalance Pricing Period)",
+            "Group": [
+                "Inputs, Commerical and Technical Offer Data"
+            ],
+            "Dynamic": true,
+            "ResourceName": "PUB_5MinImbalPrc_201910171850.xml"
+        },
+        {
+            "_id": "5da8cbc59620d92b293f58e4",
+            "Date": "2019-10-17",
+            "PublishTime": "2019-10-17T19:48:46",
+            "DPuG_ID": "BM-025",
+            "ReportName": "Imbalance Price Report (Imbalance Pricing Period)",
+            "Group": [
+                "Inputs, Commerical and Technical Offer Data"
+            ],
+            "Dynamic": true,
+            "ResourceName": "PUB_5MinImbalPrc_201910171925.xml"
+        },
+        {
+            "_id": "5da9159c9620d9717e0c0ec9",
+            "Date": "2019-10-18",
+            "PublishTime": "2019-10-18T01:04:40",
+            "DPuG_ID": "BM-025",
+            "ReportName": "Imbalance Price Report (Imbalance Pricing Period)",
+            "Group": [
+                "Inputs, Commerical and Technical Offer Data"
+            ],
+            "Dynamic": true,
+            "ResourceName": "PUB_5MinImbalPrc_201910180040.xml"
+        },
+        {
+            "_id": "5da94ddb9620d9082f248399",
+            "Date": "2019-10-18",
+            "PublishTime": "2019-10-18T05:03:36",
+            "DPuG_ID": "BM-025",
+            "ReportName": "Imbalance Price Report (Imbalance Pricing Period)",
+            "Group": [
+                "Inputs, Commerical and Technical Offer Data"
+            ],
+            "Dynamic": true,
+            "ResourceName": "PUB_5MinImbalPrc_201910180440.xml"
+        },
+        {
+            "_id": "5da9780d9620d97b176332d9",
+            "Date": "2019-10-18",
+            "PublishTime": "2019-10-18T08:04:11",
+            "DPuG_ID": "BM-025",
+            "ReportName": "Imbalance Price Report (Imbalance Pricing Period)",
+            "Group": [
+                "Inputs, Commerical and Technical Offer Data"
+            ],
+            "Dynamic": true,
+            "ResourceName": "PUB_5MinImbalPrc_201910180740.xml"
+        },
+        {
+            "_id": "5da9780d9620d97b176332db",
+            "Date": "2019-10-18",
+            "PublishTime": "2019-10-18T08:08:46",
+            "DPuG_ID": "BM-025",
+            "ReportName": "Imbalance Price Report (Imbalance Pricing Period)",
+            "Group": [
+                "Inputs, Commerical and Technical Offer Data"
+            ],
+            "Dynamic": true,
+            "ResourceName": "PUB_5MinImbalPrc_201910180745.xml"
+        },
+        {
+            "_id": "5da97b909620d9054768c5a9",
+            "Date": "2019-10-18",
+            "PublishTime": "2019-10-18T08:18:55",
+            "DPuG_ID": "BM-025",
+            "ReportName": "Imbalance Price Report (Imbalance Pricing Period)",
+            "Group": [
+                "Inputs, Commerical and Technical Offer Data"
+            ],
+            "Dynamic": true,
+            "ResourceName": "PUB_5MinImbalPrc_201910180755.xml"
+        }
+    ]
+}

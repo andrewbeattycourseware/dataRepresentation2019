@@ -1,0 +1,25 @@
+<html>
+    <head>
+        <title>if</title>
+        <!-- javascript can go in the head-->
+    </head>
+    <body>
+        <input type="text" id="data" onchange="checkValue()"/>
+        <div id="output"></div>
+        <!-- or at the end of the body-->
+        <script>
+            function checkValue(){
+                var value = document.getElementById('data').value
+                var outputElement = document.getElementById('output')
+                if (value < 10){
+                    outputElement.innerText = 'too low'
+                }else if (value > 20){
+                        outputElement.innerText = 'too high'
+                }else{
+                    outputElement.innerText = 'good enough'
+                
+                }
+            }
+        </script>
+    </body>
+</html>

@@ -1,0 +1,53 @@
+<html>
+<head>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <title>getting reports</title>
+</head>
+
+<body>
+    <button onclick="getReportList()">go</button>
+    <div id="output"></div>
+    <script>
+        function getReportList() {
+            $.ajax({
+                "url": "https://reports.sem-o.com/api/v1/documents/static-reports?ReportName=Imbalance%20Price%20Report%20(Imbalance%20Pricing%20Period)",
+                "method": "GET",
+                "data": "",
+                "dataType": "JSON",
+                "success": function (result) {
+                    //console.log(result)
+                    console.log(result.pagination.totalPages);
+                    getListOfReports(result.pagination.totalPages);
+                },
+                "error": function (xhr, status, error) {
+                    console.log("status:" + status + " message:" + error);
+                }
+
+            });
+        }
+
+        function getListOfReports(pageNumber){
+            $.ajax({
+                "url": "https://reports.sem-o.com/api/v1/documents/static-reports?ReportName=Imbalance%20Price%20Report%20(Imbalance%20Pricing%20Period)&page="+pageNumber,
+                "method": "GET",
+                "data": "",
+                "dataType": "JSON",
+                "success": function (result) {
+                    //console.log(result)
+                    var items = result.items;
+                    for (item of items){
+                        console.log(item.ResourceName);
+                    }
+                    
+                },
+                "error": function (xhr, status, error) {
+                    console.log("status:" + status + " message:" + error);
+                }
+
+            });
+        }
+
+    </script>
+</body>
+
+</html>

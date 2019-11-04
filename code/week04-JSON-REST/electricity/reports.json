@@ -1,0 +1,611 @@
+{
+    "pagination": {
+        "pageSize": 50,
+        "currentPage": 1,
+        "totalItems": 20665,
+        "totalPages": 414
+    },
+    "resourceBaseUri": "http:\/\/reports.sem-o.com\/documents",
+    "items": [
+        {
+            "_id": "5ac0a316e0cac44fc83e5f47",
+            "Date": "2018-04-01",
+            "PublishTime": "2018-04-01T09:00:02",
+            "DPuG_ID": "BM-003",
+            "ReportName": "Registered Capacity",
+            "Group": [
+                "Registration"
+            ],
+            "Dynamic": false,
+            "ResourceName": "PUB_MnlyRegisteredCapacity_201804010900.xml"
+        },
+        {
+            "_id": "5ac0a316e0cac44fc83e5f48",
+            "Date": "2018-05-01",
+            "PublishTime": "2018-04-01T09:00:03",
+            "DPuG_ID": "BM-011",
+            "ReportName": "Monthly Load Forecast and Assumptions",
+            "Group": [
+                "Forecast Data"
+            ],
+            "Dynamic": false,
+            "ResourceName": "PUB_MonthlyLoadFcst_201804010900.xml"
+        },
+        {
+            "_id": "5d834e769620d9112885baf6",
+            "Date": "2019-09-20",
+            "PublishTime": "2019-09-19T09:15:01",
+            "DPuG_ID": "BM-102",
+            "ReportName": "Unit Under Test",
+            "Group": [
+                "Settlement Data"
+            ],
+            "Dynamic": true,
+            "ResourceName": "PUB_DailyUnitUnderTest_201909190915.xml"
+        },
+        {
+            "_id": "5d839f019620d95d502083d3",
+            "Date": "2019-09-19",
+            "PublishTime": "2019-09-19T15:10:16",
+            "DPuG_ID": "BM-010",
+            "ReportName": "Daily Load Forecast Summary",
+            "Group": [
+                "Forecast Data"
+            ],
+            "Dynamic": true,
+            "ResourceName": "PUB_DailyLoadFcst_201909191510.xml"
+        },
+        {
+            "_id": "5d89de969620d92c31582c3a",
+            "Date": "2019-09-24",
+            "PublishTime": "2019-09-24T08:44:26",
+            "DPuG_ID": "BM-010",
+            "ReportName": "Daily Load Forecast Summary",
+            "Group": [
+                "Forecast Data"
+            ],
+            "Dynamic": true,
+            "ResourceName": "PUB_DailyLoadFcst_201909240844.xml"
+        },
+        {
+            "_id": "5d8cf59e9620d971a83a0613",
+            "DPuG_ID": "EA-004",
+            "ReportName": "Bid\/Ask Curves",
+            "Group": [
+                "Market Data"
+            ],
+            "Dynamic": true,
+            "ResourceName": "BidAskCurves_ROI-IDA1_20190927_20190926191036.xml",
+            "PublishTime": "2019-09-28T00:00:04",
+            "Date": "2019-09-27"
+        },
+        {
+            "_id": "5d8cf5a09620d971a83a0649",
+            "Date": "2019-09-25",
+            "PublishTime": "2019-09-26T17:05:39+00:00",
+            "DPuG_ID": "BM-103",
+            "ReportName": "Energy Market Financial Publication \u2013 Indicative",
+            "Group": [
+                "Settlement Data"
+            ],
+            "Dynamic": false,
+            "ResourceName": "EF_PT_ALL_20190925_20190926_BALIMB_INDIC_20190926T170539.XML"
+        },
+        {
+            "_id": "5d90091b9620d94f6c274422",
+            "Date": "2019-09-29",
+            "PublishTime": "2019-09-29T01:10:11",
+            "DPuG_ID": "BM-010",
+            "ReportName": "Daily Load Forecast Summary",
+            "Group": [
+                "Forecast Data"
+            ],
+            "Dynamic": true,
+            "ResourceName": "PUB_DailyLoadFcst_201909290110.xml"
+        },
+        {
+            "_id": "5d92af9f9620d961294cd276",
+            "Date": "2019-10-01",
+            "PublishTime": "2019-10-01T01:10:15",
+            "DPuG_ID": "BM-010",
+            "ReportName": "Daily Load Forecast Summary",
+            "Group": [
+                "Forecast Data"
+            ],
+            "Dynamic": true,
+            "ResourceName": "PUB_DailyLoadFcst_201910010110.xml"
+        },
+        {
+            "_id": "5d92cbbe9620d926db79eac2",
+            "Date": "2019-10-01",
+            "PublishTime": "2019-10-01T03:10:16",
+            "DPuG_ID": "BM-010",
+            "ReportName": "Daily Load Forecast Summary",
+            "Group": [
+                "Forecast Data"
+            ],
+            "Dynamic": true,
+            "ResourceName": "PUB_DailyLoadFcst_201910010310.xml"
+        },
+        {
+            "_id": "5d92cf429620d92f0d3e3253",
+            "PublishTime": "2019-10-01T04:00:02",
+            "Date": "2019-09-30",
+            "DPuG_ID": "EA-007",
+            "ReportName": "Intraday Market Results Trade",
+            "Group": [
+                "Market Data"
+            ],
+            "Dynamic": false,
+            "ResourceName": "IDC_TradeFile_20190930_20191001053452.xml"
+        },
+        {
+            "_id": "5d93208d9620d978e913a08b",
+            "Date": "2019-09-30",
+            "PublishTime": "2019-10-01T09:15:01",
+            "DPuG_ID": "BM-034",
+            "ReportName": "Commercial Offer Data Accepted",
+            "Group": [
+                "Inputs, Commerical and Technical Offer Data"
+            ],
+            "Dynamic": false,
+            "ResourceName": "PUB_DailyCommercialOfferData_201910010915.xml"
+        },
+        {
+            "_id": "5d93208e9620d978e913a08c",
+            "Date": "2019-09-30",
+            "PublishTime": "2019-10-01T09:24:31",
+            "DPuG_ID": "BM-036",
+            "ReportName": "Demand Control",
+            "Group": [
+                "Inputs, Commerical and Technical Offer Data"
+            ],
+            "Dynamic": true,
+            "ResourceName": "PUB_DailyDemandControlData_201910010924.xml"
+        },
+        {
+            "_id": "5d932ab39620d914902754ea",
+            "Date": "2019-09-24",
+            "PublishTime": "2019-10-01T10:03:52+00:00",
+            "DPuG_ID": "BM-094",
+            "ReportName": "Metered Volumes by Jurisdiction",
+            "Group": [
+                "Settlement Data"
+            ],
+            "Dynamic": false,
+            "ResourceName": "MJ_GP_ALL_20190924_20191001_BALIMB_INIT_20191001T100352.XML"
+        },
+        {
+            "_id": "5d93acbf9620d95e3e33b932",
+            "Date": "2019-10-01",
+            "PublishTime": "2019-10-01T19:10:21",
+            "DPuG_ID": "BM-010",
+            "ReportName": "Daily Load Forecast Summary",
+            "Group": [
+                "Forecast Data"
+            ],
+            "Dynamic": true,
+            "ResourceName": "PUB_DailyLoadFcst_201910011910.xml"
+        },
+        {
+            "_id": "5d93be559620d90b3912a43c",
+            "Date": "2019-10-02",
+            "PublishTime": "2019-10-01T20:30:02",
+            "DPuG_ID": "BM-033",
+            "ReportName": "Forecast Availability",
+            "Group": [
+                "Inputs, Commerical and Technical Offer Data"
+            ],
+            "Dynamic": true,
+            "ResourceName": "PUB_DailyForecastAvailability_201910012030.xml"
+        },
+        {
+            "_id": "5d93f30f9620d90c5e22d488",
+            "Date": "2019-10-02",
+            "PublishTime": "2019-10-02T00:10:31",
+            "DPuG_ID": "BM-010",
+            "ReportName": "Daily Load Forecast Summary",
+            "Group": [
+                "Forecast Data"
+            ],
+            "Dynamic": true,
+            "ResourceName": "PUB_DailyLoadFcst_201910020010.xml"
+        },
+        {
+            "_id": "5d95aa829620d9640a199042",
+            "DPuG_ID": "EA-004",
+            "ReportName": "Bid\/Ask Curves",
+            "Group": [
+                "Market Data"
+            ],
+            "Dynamic": true,
+            "ResourceName": "BidAskCurves_NI-IDA2_20191003_20191003094036.xml",
+            "PublishTime": "2019-10-04T00:00:03",
+            "Date": "2019-10-03"
+        },
+        {
+            "_id": "5d95aa839620d9640a19905b",
+            "DPuG_ID": "EA-004",
+            "ReportName": "Bid\/Ask Curves",
+            "Group": [
+                "Market Data"
+            ],
+            "Dynamic": true,
+            "ResourceName": "BidAskCurves_ROI-IDA2_20191003_20191003094036.xml",
+            "PublishTime": "2019-10-04T00:00:03",
+            "Date": "2019-10-03"
+        },
+        {
+            "_id": "5d989ae59620d920575ab46d",
+            "Date": "2019-10-05",
+            "PublishTime": "2019-10-05T13:00:18",
+            "DPuG_ID": "BM-015",
+            "ReportName": "Net Imbalance Volume Forecast",
+            "Group": [
+                "Forecast Data"
+            ],
+            "Dynamic": false,
+            "ResourceName": "PUB_HrlyNetImbalVolumeForecast_201910051300.xml"
+        },
+        {
+            "_id": "5d9bf4ac9620d95ae9040586",
+            "Date": "2019-10-08",
+            "PublishTime": "2019-10-08T01:54:23",
+            "DPuG_ID": "BM-027",
+            "ReportName": "Imbalance Price Supporting Information Report",
+            "Group": [
+                "Inputs, Commerical and Technical Offer Data"
+            ],
+            "Dynamic": false,
+            "ResourceName": "PUB_5MinImbalPrcSuppInfo_201910080130.xml"
+        },
+        {
+            "_id": "5d9bf4ad9620d95ae9040588",
+            "Date": "2019-10-08",
+            "PublishTime": "2019-10-08T02:09:13",
+            "DPuG_ID": "BM-027",
+            "ReportName": "Imbalance Price Supporting Information Report",
+            "Group": [
+                "Inputs, Commerical and Technical Offer Data"
+            ],
+            "Dynamic": false,
+            "ResourceName": "PUB_5MinImbalPrcSuppInfo_201910080145.xml"
+        },
+        {
+            "_id": "5d9bff369620d973b04efac5",
+            "Date": "2019-10-08",
+            "PublishTime": "2019-10-08T02:53:31",
+            "DPuG_ID": "BM-025",
+            "ReportName": "Imbalance Price Report (Imbalance Pricing Period)",
+            "Group": [
+                "Inputs, Commerical and Technical Offer Data"
+            ],
+            "Dynamic": true,
+            "ResourceName": "PUB_5MinImbalPrc_201910080230.xml"
+        },
+        {
+            "_id": "5d9c0d469620d916e11ffbba",
+            "Date": "2019-10-08",
+            "PublishTime": "2019-10-08T03:48:11",
+            "DPuG_ID": "BM-163",
+            "ReportName": "RTIC OPERATIONAL SCHEDULE REPORT",
+            "Group": [
+                "Inputs, Commerical and Technical Offer Data"
+            ],
+            "Dynamic": false,
+            "ResourceName": "PUB_RTCOperationalSchedule_201910080348.xml"
+        },
+        {
+            "_id": "5d9c33f29620d975e013f55d",
+            "Date": "2019-10-08",
+            "PublishTime": "2019-10-08T06:37:02",
+            "DPuG_ID": "BM-027",
+            "ReportName": "Imbalance Price Supporting Information Report",
+            "Group": [
+                "Inputs, Commerical and Technical Offer Data"
+            ],
+            "Dynamic": false,
+            "ResourceName": "PUB_5MinImbalPrcSuppInfo_201910080615.xml"
+        },
+        {
+            "_id": "5d9c81509620d93cd75a0990",
+            "Date": "2019-10-08",
+            "PublishTime": "2019-10-08T12:01:21",
+            "DPuG_ID": "BM-013",
+            "ReportName": "Four Day Aggregated Rolling Wind Unit Forecast",
+            "Group": [
+                "Forecast Data"
+            ],
+            "Dynamic": true,
+            "ResourceName": "PUB_4DayAggRollWindUnitFcst_201910081201.xml"
+        },
+        {
+            "_id": "5d9c81539620d93cd75a0ecb",
+            "Date": "2019-10-08",
+            "PublishTime": "2019-10-08T12:13:07",
+            "DPuG_ID": "BM-027",
+            "ReportName": "Imbalance Price Supporting Information Report",
+            "Group": [
+                "Inputs, Commerical and Technical Offer Data"
+            ],
+            "Dynamic": false,
+            "ResourceName": "PUB_5MinImbalPrcSuppInfo_201910081150.xml"
+        },
+        {
+            "_id": "5d9c92e09620d969217e6cbd",
+            "DPuG_ID": "EA-006",
+            "ReportName": "Exchange Transparency",
+            "Group": [
+                "Market Data"
+            ],
+            "Dynamic": false,
+            "ResourceName": "ExchangeTransparencyData_NI-IDA3_20191008_20191008151728.xml",
+            "PublishTime": "2019-10-09T00:00:04",
+            "Date": "2019-10-08"
+        },
+        {
+            "_id": "5d9c92e09620d969217e6cbe",
+            "DPuG_ID": "EA-006",
+            "ReportName": "Exchange Transparency",
+            "Group": [
+                "Market Data"
+            ],
+            "Dynamic": false,
+            "ResourceName": "ExchangeTransparencyData_ROI-IDA3_20191008_20191008151728.xml",
+            "PublishTime": "2019-10-09T00:00:05",
+            "Date": "2019-10-08"
+        },
+        {
+            "_id": "5d9c92e19620d969217e6cc5",
+            "Date": "2019-10-08",
+            "PublishTime": "2019-10-08T13:24:55",
+            "DPuG_ID": "BM-025",
+            "ReportName": "Imbalance Price Report (Imbalance Pricing Period)",
+            "Group": [
+                "Inputs, Commerical and Technical Offer Data"
+            ],
+            "Dynamic": true,
+            "ResourceName": "PUB_5MinImbalPrc_201910081300.xml"
+        },
+        {
+            "_id": "5d9c92e19620d969217e6cc7",
+            "Date": "2019-10-08",
+            "PublishTime": "2019-10-08T13:19:59",
+            "DPuG_ID": "BM-099",
+            "ReportName": "Aggregated Contracted Quantities for Demand",
+            "Group": [
+                "Settlement Data"
+            ],
+            "Dynamic": true,
+            "ResourceName": "PUB_AggContractedQtyDemand_201910081430.xml"
+        },
+        {
+            "_id": "5d9cdcb69620d92278553d82",
+            "Date": "2019-10-08",
+            "PublishTime": "2019-10-08T18:30:02",
+            "DPuG_ID": "BM-020",
+            "ReportName": "Aggregated Final Physical Notifications",
+            "Group": [
+                "Inputs, Commerical and Technical Offer Data"
+            ],
+            "Dynamic": false,
+            "ResourceName": "PUB_HlfHrlyAggregatedPN_201910081830.xml"
+        },
+        {
+            "_id": "5d9ce3bd9620d9342c6fdf33",
+            "Date": "2019-10-08",
+            "PublishTime": "2019-10-08T19:00:01",
+            "DPuG_ID": "BM-020",
+            "ReportName": "Aggregated Final Physical Notifications",
+            "Group": [
+                "Inputs, Commerical and Technical Offer Data"
+            ],
+            "Dynamic": false,
+            "ResourceName": "PUB_HlfHrlyAggregatedPN_201910081900.xml"
+        },
+        {
+            "_id": "5d9ce3be9620d9342c6fdf69",
+            "Date": "2019-10-08",
+            "PublishTime": "2019-10-08T19:00:17",
+            "DPuG_ID": "BM-015",
+            "ReportName": "Net Imbalance Volume Forecast",
+            "Group": [
+                "Forecast Data"
+            ],
+            "Dynamic": false,
+            "ResourceName": "PUB_HrlyNetImbalVolumeForecast_201910081900.xml"
+        },
+        {
+            "_id": "5d9ce3be9620d9342c6fdf6a",
+            "Date": "2019-10-08",
+            "PublishTime": "2019-10-08T19:00:18",
+            "DPuG_ID": "BM-022",
+            "ReportName": "System Shortfall Imbalance Index and System Imbalance Flattening Factor",
+            "Group": [
+                "Inputs, Commerical and Technical Offer Data"
+            ],
+            "Dynamic": false,
+            "ResourceName": "PUB_HrlySsiiSiff_201910081900.xml"
+        },
+        {
+            "_id": "5d9ce73e9620d93c8b3980e3",
+            "Date": "2019-10-08",
+            "PublishTime": "2019-10-08T19:22:33",
+            "DPuG_ID": "BM-027",
+            "ReportName": "Imbalance Price Supporting Information Report",
+            "Group": [
+                "Inputs, Commerical and Technical Offer Data"
+            ],
+            "Dynamic": false,
+            "ResourceName": "PUB_5MinImbalPrcSuppInfo_201910081900.xml"
+        },
+        {
+            "_id": "5d9ce73f9620d93c8b3980f0",
+            "Date": "2019-10-08",
+            "PublishTime": "2019-10-08T19:15:01",
+            "DPuG_ID": "BM-100",
+            "ReportName": "Aggregated Contracted Quantities for Wind",
+            "Group": [
+                "Settlement Data"
+            ],
+            "Dynamic": true,
+            "ResourceName": "PUB_HrlyAggWindFcst_201910082030.xml"
+        },
+        {
+            "_id": "5d9d06e69620d90d1d3f3145",
+            "Date": "2019-10-08",
+            "PublishTime": "2019-10-08T21:32:28",
+            "DPuG_ID": "BM-095",
+            "ReportName": "Balancing and Imbalance Market Cost View",
+            "Group": [
+                "Settlement Data"
+            ],
+            "Dynamic": true,
+            "ResourceName": "PUB_30MinImbalCost_201910082030.xml"
+        },
+        {
+            "_id": "5d9d2d8e9620d96d180e0338",
+            "Date": "2019-10-09",
+            "PublishTime": "2019-10-09T00:19:48",
+            "DPuG_ID": "BM-099",
+            "ReportName": "Aggregated Contracted Quantities for Demand",
+            "Group": [
+                "Settlement Data"
+            ],
+            "Dynamic": true,
+            "ResourceName": "PUB_AggContractedQtyDemand_201910090130.xml"
+        },
+        {
+            "_id": "5d9d2d8e9620d96d180e0362",
+            "Date": "2019-10-09",
+            "PublishTime": "2019-10-09T00:18:16",
+            "DPuG_ID": "BM-098",
+            "ReportName": "Aggregated Contracted Quantities for Generation",
+            "Group": [
+                "Settlement Data"
+            ],
+            "Dynamic": true,
+            "ResourceName": "PUB_HrlyAggContractedQtyGen_201910090130.xml"
+        },
+        {
+            "_id": "5d9d69529620d905233abad8",
+            "Date": "2019-10-09",
+            "PublishTime": "2019-10-09T04:38:57",
+            "DPuG_ID": "BM-027",
+            "ReportName": "Imbalance Price Supporting Information Report",
+            "Group": [
+                "Inputs, Commerical and Technical Offer Data"
+            ],
+            "Dynamic": false,
+            "ResourceName": "PUB_5MinImbalPrcSuppInfo_201910090415.xml"
+        },
+        {
+            "_id": "5d9d77659620d9295a09174e",
+            "Date": "2019-10-09",
+            "PublishTime": "2019-10-09T05:37:45",
+            "DPuG_ID": "BM-025",
+            "ReportName": "Imbalance Price Report (Imbalance Pricing Period)",
+            "Group": [
+                "Inputs, Commerical and Technical Offer Data"
+            ],
+            "Dynamic": true,
+            "ResourceName": "PUB_5MinImbalPrc_201910090515.xml"
+        },
+        {
+            "_id": "5d9d93849620d97384057bf2",
+            "DPuG_ID": "EA-004",
+            "ReportName": "Bid\/Ask Curves",
+            "Group": [
+                "Market Data"
+            ],
+            "Dynamic": true,
+            "ResourceName": "BidAskCurves_NI-IDA2_20191009_20191009094048.xml",
+            "PublishTime": "2019-10-10T00:00:03",
+            "Date": "2019-10-09"
+        },
+        {
+            "_id": "5d9e434b9620d9540273616b",
+            "Date": "2019-10-09",
+            "PublishTime": "2019-10-09T20:07:40",
+            "DPuG_ID": "BM-025",
+            "ReportName": "Imbalance Price Report (Imbalance Pricing Period)",
+            "Group": [
+                "Inputs, Commerical and Technical Offer Data"
+            ],
+            "Dynamic": true,
+            "ResourceName": "PUB_5MinImbalPrc_201910091945.xml"
+        },
+        {
+            "_id": "5d7b457b9620d931eb38aa74",
+            "Date": "2019-09-13",
+            "PublishTime": "2019-09-13T07:13:26",
+            "DPuG_ID": "BM-001",
+            "ReportName": "List of Registered Units",
+            "Group": [
+                "Registration"
+            ],
+            "Dynamic": false,
+            "ResourceName": "PUB_DailyRegisteredUnits_201909130713.xml"
+        },
+        {
+            "_id": "5d7b92d49620d975ba2dbecc",
+            "Date": "2019-09-12",
+            "PublishTime": "2019-09-13T12:30:41",
+            "DPuG_ID": "BM-086",
+            "ReportName": "Daily Meter Data (Metered Generation by Unit)",
+            "Group": [
+                "Settlement Data"
+            ],
+            "Dynamic": true,
+            "ResourceName": "PUB_DailyMeterDataD1_201909131230.xml"
+        },
+        {
+            "_id": "5d7f3d7f9620d91e264b75b5",
+            "Date": "2019-09-16",
+            "PublishTime": "2019-09-16T07:17:45",
+            "DPuG_ID": "BM-002",
+            "ReportName": "List of Registered Parties",
+            "Group": [
+                "Registration"
+            ],
+            "Dynamic": false,
+            "ResourceName": "PUB_DailyRegisteredParties_201909160717.xml"
+        },
+        {
+            "_id": "5d7faa819620d927de6d6b2b",
+            "Date": "2019-09-14",
+            "PublishTime": "2019-09-16T14:59:38+00:00",
+            "DPuG_ID": "BM-153",
+            "ReportName": "Make Whole Payments",
+            "Group": [
+                "Settlement Data"
+            ],
+            "Dynamic": false,
+            "ResourceName": "MW_GP_ALL_20190914_20190916_BALIMB_INDIC_20190916T145938.XML"
+        },
+        {
+            "_id": "5d7fb18b9620d938d95a04d8",
+            "Date": "2019-09-15",
+            "PublishTime": "2019-09-16T15:37:34+00:00",
+            "DPuG_ID": "BM-066",
+            "ReportName": "Tolerance for Over Generation, Tolerance for Under Generation",
+            "Group": [
+                "Settlement Data"
+            ],
+            "Dynamic": false,
+            "ResourceName": "GP_GP_ALL_20190915_20190916_BALIMB_INDIC_20190916T153734.XML"
+        },
+        {
+            "_id": "5d7fb18c9620d938d95a04d9",
+            "Date": "2019-09-15",
+            "PublishTime": "2019-09-16T15:37:26+00:00",
+            "DPuG_ID": "BM-151",
+            "ReportName": "Metered Generation Information Publication - Indicative",
+            "Group": [
+                "Settlement Data"
+            ],
+            "Dynamic": false,
+            "ResourceName": "MI_PT_ALL_20190915_20190916_BALIMB_INDIC_20190916T153726.XML"
+        }
+    ]
+}
