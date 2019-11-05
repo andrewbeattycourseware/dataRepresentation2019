@@ -2,8 +2,8 @@ import requests
 import json
 
 
-
-apiKey = 'f59b1cdb743ce0ab9b21a94ac246b02f06ee2d85'
+# remove the minus sign
+apiKey = 'b55d312da577ba479f7dc4f8f3f5b1384bdf3b2-e'
 url = 'https://api.github.com/repos/datarepresentationstudent/aPrivateOne'
 filename ="repo.json"
 
