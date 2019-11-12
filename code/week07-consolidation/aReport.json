@@ -1,0 +1,23 @@
+{
+    "DatasetType": "HALF_HOURLY",
+    "DatasetName": "PUB_30MinImbalCost",
+    "Date": "2019-11-11",
+    "DateType": "TRADE",
+    "PublishTime": "2019-11-11T00:04:26",
+    "DPuG_ID": "BM-095",
+    "ReportName": "Balancing and Imbalance Market Cost View",
+    "Group": [
+        "Settlement Data"
+    ],
+    "Dynamic": true,
+    "ResourceName": "PUB_30MinImbalCost_201911102300.xml",
+    "rows": [
+        {
+            "StartTime": "2019-11-10T23:00:00",
+            "EndTime": "2019-11-10T23:30:00",
+            "ImbalanceVolume": -4.8840000000000003,
+            "ImbalancePrice": 10.99,
+            "ImbalanceCost": -53.675159999999998
+        }
+    ]
+}

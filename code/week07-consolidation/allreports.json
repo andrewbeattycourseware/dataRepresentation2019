@@ -1,0 +1,107 @@
+{
+    "pagination": {
+        "pageSize": 50,
+        "currentPage": 14,
+        "totalItems": 658,
+        "totalPages": 14
+    },
+    "resourceBaseUri": "http://reports.sem-o.com/documents",
+    "items": [
+        {
+            "_id": "5dc985839620d91b79430754",
+            "Date": "2019-11-11",
+            "PublishTime": "2019-11-11T15:32:53",
+            "DPuG_ID": "BM-095",
+            "ReportName": "Balancing and Imbalance Market Cost View",
+            "Group": [
+                "Settlement Data"
+            ],
+            "Dynamic": true,
+            "ResourceName": "PUB_30MinImbalCost_201911111430.xml"
+        },
+        {
+            "_id": "5dc98c8a9620d92e5d527914",
+            "Date": "2019-11-11",
+            "PublishTime": "2019-11-11T16:04:52",
+            "DPuG_ID": "BM-095",
+            "ReportName": "Balancing and Imbalance Market Cost View",
+            "Group": [
+                "Settlement Data"
+            ],
+            "Dynamic": true,
+            "ResourceName": "PUB_30MinImbalCost_201911111500.xml"
+        },
+        {
+            "_id": "5dba00dd9620d96c425d5b04",
+            "Date": "2019-10-30",
+            "PublishTime": "2019-10-30T21:02:43",
+            "DPuG_ID": "BM-095",
+            "ReportName": "Balancing and Imbalance Market Cost View",
+            "Group": [
+                "Settlement Data"
+            ],
+            "Dynamic": true,
+            "ResourceName": "PUB_30MinImbalCost_201910302000.xml"
+        },
+        {
+            "_id": "5dba40239620d91a5e1bdf34",
+            "Date": "2019-10-31",
+            "PublishTime": "2019-10-31T01:33:03",
+            "DPuG_ID": "BM-095",
+            "ReportName": "Balancing and Imbalance Market Cost View",
+            "Group": [
+                "Settlement Data"
+            ],
+            "Dynamic": true,
+            "ResourceName": "PUB_30MinImbalCost_201910310030.xml"
+        },
+        {
+            "_id": "5dba5c429620d9671c663614",
+            "Date": "2019-10-31",
+            "PublishTime": "2019-10-31T03:32:41",
+            "DPuG_ID": "BM-095",
+            "ReportName": "Balancing and Imbalance Market Cost View",
+            "Group": [
+                "Settlement Data"
+            ],
+            "Dynamic": true,
+            "ResourceName": "PUB_30MinImbalCost_201910310230.xml"
+        },
+        {
+            "_id": "5dba94819620d904fa780444",
+            "Date": "2019-10-31",
+            "PublishTime": "2019-10-31T07:32:39",
+            "DPuG_ID": "BM-095",
+            "ReportName": "Balancing and Imbalance Market Cost View",
+            "Group": [
+                "Settlement Data"
+            ],
+            "Dynamic": true,
+            "ResourceName": "PUB_30MinImbalCost_201910310630.xml"
+        },
+        {
+            "_id": "5dbc80b39620d9534c423864",
+            "Date": "2019-11-01",
+            "PublishTime": "2019-11-01T18:32:41",
+            "DPuG_ID": "BM-095",
+            "ReportName": "Balancing and Imbalance Market Cost View",
+            "Group": [
+                "Settlement Data"
+            ],
+            "Dynamic": true,
+            "ResourceName": "PUB_30MinImbalCost_201911011730.xml"
+        },
+        {
+            "_id": "5dbc87bc9620d965f72ac904",
+            "Date": "2019-11-01",
+            "PublishTime": "2019-11-01T19:05:34",
+            "DPuG_ID": "BM-095",
+            "ReportName": "Balancing and Imbalance Market Cost View",
+            "Group": [
+                "Settlement Data"
+            ],
+            "Dynamic": true,
+            "ResourceName": "PUB_30MinImbalCost_201911011800.xml"
+        }
+    ]
+}
