@@ -3,12 +3,6 @@ from bookDAO import bookDAO
 
 app = Flask(__name__, static_url_path='', static_folder='.')
 
-books=[
-    { "id":1, "Title":"Harry Potter", "Author":"JK", "Price":1000},
-    { "id":2, "Title":"The Quiet American", "Author":"Greene", "Price":800},
-    { "id":3, "Title":"Something Steamy", "Author":" Jackie Collins", "Price":1100}
-]
-nextId=4
 #app = Flask(__name__)
 
 #@app.route('/')
